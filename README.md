@@ -1,2 +1,4 @@
 # Criando-Repositorio-no-GitHub
-Desafio do projeto sobre GitHub
+
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
